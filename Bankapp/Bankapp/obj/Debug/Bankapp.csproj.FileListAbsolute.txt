@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\obj\Debug\Bankapp.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\obj\Debug\Bankapp.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\bin\Debug\Bankapp.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\bin\Debug\Bankapp.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\bin\Debug\Bankapp.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\obj\Debug\Bankapp.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Bankapp\Bankapp\obj\Debug\Bankapp.pdb

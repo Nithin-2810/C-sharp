@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\bin\Debug\Atmapp.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\bin\Debug\Atmapp.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\bin\Debug\Atmapp.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\obj\Debug\Atmapp.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\obj\Debug\Atmapp.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\obj\Debug\Atmapp.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Atmapp\Atmapp\obj\Debug\Atmapp.pdb

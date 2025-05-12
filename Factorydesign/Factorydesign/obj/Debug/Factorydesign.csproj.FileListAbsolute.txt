@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\bin\Debug\Factorydesign.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\bin\Debug\Factorydesign.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\bin\Debug\Factorydesign.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\obj\Debug\Factorydesign.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\obj\Debug\Factorydesign.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\obj\Debug\Factorydesign.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Factorydesign\Factorydesign\obj\Debug\Factorydesign.pdb
