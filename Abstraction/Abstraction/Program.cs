@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace practice
+{
+    //abstraction
+    public abstract class animal
+    {
+        public abstract void makesound();
+        public void sleeps()
+        {
+            Console.WriteLine("It's sleeping");
+        }
+    }
+    public class Dog : animal
+    {
+        public override void makesound()
+        {
+            Console.WriteLine("Dog sound");
+        }
+    }
+    public class cat : animal
+    {
+        public override void makesound()
+        {
+            Console.WriteLine("Cat sound");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Dog a = new Dog();
+            a.makesound();
+            a.sleeps();
+            cat b = new cat();
+            b.makesound();
+            b.sleeps();
+        }
+    }
+}

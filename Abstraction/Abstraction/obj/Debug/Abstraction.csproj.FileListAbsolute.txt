@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
