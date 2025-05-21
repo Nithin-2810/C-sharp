@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\C#\Delegates\Delegates\obj\Debug\Delegates.pdb
